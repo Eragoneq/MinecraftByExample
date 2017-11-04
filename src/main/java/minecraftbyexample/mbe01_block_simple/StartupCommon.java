@@ -30,7 +30,7 @@ public class StartupCommon
     //    "aqua" in Italian.
     //
     //    Multiple blocks can have the same unlocalised name - for example
-    //  +----RegistryName----+---UnlocalisedName----+
+    //  +----RegistryName----+---UnlocalizedName----+
     //  |  flowing_water     +       water          |
     //  |  stationary_water  +       water          |
     //  +--------------------+----------------------+
