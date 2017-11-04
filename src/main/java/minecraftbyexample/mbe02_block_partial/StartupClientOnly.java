@@ -14,7 +14,7 @@ import net.minecraftforge.client.model.ModelLoader;
  *  initClientOnly
  *  postInitCommon
  *  postInitClientOnly
- *  See MinecraftByExample class for more information
+ * 
  */
 public class StartupClientOnly
 {
